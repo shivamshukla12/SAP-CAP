@@ -2,3 +2,7 @@
 GET http://localhost:4004/say/hello(to='world')
 
 
+###
+GET http://localhost:4004/supl/Supplier
+
+
