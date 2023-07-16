@@ -30,6 +30,9 @@ File or Folder | Purpose
 
  Projection , Aggregate functions and Joins
 
+#### Adding my blogpost link for reference.
+[https://blogs.sap.com/2023/07/16/lets-deep-dive-into-capm-and-hana-cloud-hanacap/](https://blogs.sap.com/2023/07/16/lets-deep-dive-into-capm-and-hana-cloud-hanacap/).
+
 
 ## Learn More
 
