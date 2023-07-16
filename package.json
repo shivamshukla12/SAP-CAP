@@ -7,6 +7,7 @@
   "private": true,
   "dependencies": {
     "@sap/cds": "^6",
+    "@sap/cds-hana": "^2.0.0",
     "express": "^4"
   },
   "devDependencies": {
