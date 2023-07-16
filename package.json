@@ -19,7 +19,7 @@
   },
   "cds": {
     "requires": {
-      "db": "hana-cloud"
+      "db": "hana"
     },
     "features": {
       "fiori_preview": true

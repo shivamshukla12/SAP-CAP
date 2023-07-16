@@ -75,4 +75,32 @@
 
 ## cf deploy mtar
 
+* Make Sure you Have these Services and their respective service plan in place 
+* HDB Instance with HDI Container ( Make sure its running) 
+* Enough Memory for Services 
+* Authorization and trust Management 
+
+### Once Deployment done --> Lets run the App locally in VSCode 
+
+## Bind Services to App
+
+cds bind -2 destination:key
+cds bind -2 connectivity:key
+cds bind -2 uss:key
+
+### Open Javascript debug termincal 
+
+run cds watch --profile hyrbid 
+
+Yeah you are ready to debug and run your Application Now 
+
+##### Here we complete our second Exercise 
+
+##### We will dig deeper into SQL Slowy in next Coming Turorirals Stay Tuned.
+
+
+
+
+
+
 
