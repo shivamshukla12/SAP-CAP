@@ -1,4 +1,4 @@
-## Here we are going to Connect to SAP HANA Cloud 
+## Here we are going to Connect to SAP HANA Cloud from CAP 
 
 ### Deploy to SAP HANA -- Fetch Data From SAP HANA Cloud 
 
