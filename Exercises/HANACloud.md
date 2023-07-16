@@ -11,10 +11,10 @@
 
 **Lets Add Hard Code Data in Supplier Entity**
 
-* Add CDS entity Supplier 
-* Add getSupplier Method for reading Supplier Data 
-* Add Hard Code Array of two records Stated in Supplier.JS File 
-* Return those Two records on method GET Entity Call 
+*Add CDS entity Supplier 
+*Add getSupplier Method for reading Supplier Data 
+*Add Hard Code Array of two records Stated in Supplier.JS File 
+*Return those Two records on method GET Entity Call 
 
 **Supplier Entity**                   **Added Two Records**
 
