@@ -82,11 +82,15 @@
 
 ### Once Deployment done --> Lets run the App locally in VSCode 
 
-## Bind Services to App
+## Bind Your Service instance to CAP App
 
 cds bind -2 destination:key
 cds bind -2 connectivity:key
 cds bind -2 uss:key
+
+#### Like this
+
+![Alt text](image-5.png)
 
 ### Open Javascript debug termincal 
 
