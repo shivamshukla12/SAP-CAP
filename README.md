@@ -22,6 +22,15 @@ File or Folder | Purpose
 ## First Exercise -   [Exercises\HelloWorld.md](Exercises\HelloWorld.md).
 ## Second Exercise -  [Exercises\HANACloud.md](Exercises\HANACloud.md).
 
+# Coming up Next...
+
+ How SQL is giving the real value to your cloud Application Programming -- SQL is the magic 
+
+ Working with multiple entities and Association 
+
+ Projection , Aggregate functions and Joins
+
+
 ## Learn More
 
 Learn more at https://cap.cloud.sap/docs/get-started/.
