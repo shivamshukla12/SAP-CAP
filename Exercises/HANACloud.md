@@ -21,9 +21,58 @@
 ![Alt text](image-1.png)         ![Alt text](image-2.png)
 
 
-### run CDS Watch
+# Run cds watch
 
-### Output
+# Output
 
 ![Alt text](image-3.png)
+
+
+
+
+# Upload data using CSV File 
+
+## Execute cds add data --> It will add csv file in your data folder or add data folder it not already created.
+
+### Steps
+
+* Add Supplier Entity 
+* Add Projection for Supplier Entity in Supplier.cds 
+* Add Supplier.csv for data Upload 
+* Add Dummy Data for Suppliers in CSV File with Header
+* cds build 
+* cds watch 
+
+# Output
+
+### Not Comment your code in JS File before execution otherwise it may display Old Records from Entity 
+
+* We uploaded 3 records in CSV File
+
+![Alt text](image-4.png)
+
+
+
+
+# Lets Deploy this to HANA Cloud and Upload data
+
+## Run these Commands to prepare for HANA Cloud Deployment
+
+### cds add mta 
+### cds add hana  ( This will add db-deployer and HDI Container which will serve the purpose of Database Persistence )
+
+## Add these Services in MTA File
+
+### Add Connectivity Service 
+### Add Destination  Service
+### Add uaa          Service 
+
+## Install Node Modules npm i 
+
+## cds build 
+
+## mbt build for building your CAP Project ready for deployment to Cloud Foundry 
+
+## cf deploy mtar
+
 

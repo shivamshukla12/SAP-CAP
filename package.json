@@ -8,12 +8,21 @@
   "dependencies": {
     "@sap/cds": "^6",
     "@sap/cds-hana": "^2.0.0",
-    "express": "^4"
+    "express": "^4",
+    "hdb": "^0.19.0"
   },
   "devDependencies": {
     "sqlite3": "^5"
   },
   "scripts": {
     "start": "cds-serve"
+  },
+  "cds": {
+    "requires": {
+      "db": "hana-cloud"
+    },
+    "features": {
+      "fiori_preview": true
+    }
   }
 }
