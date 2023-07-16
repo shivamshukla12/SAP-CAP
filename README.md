@@ -19,8 +19,8 @@ File or Folder | Purpose
 - (in VS Code simply choose _**Terminal** > Run Task > cds watch_)
 - Start adding content, for example, a [db/schema.cds](db/schema.cds).
 
-## First Exercise -   Exercises\HelloWorld.md
-## Second Exercise -  Exercises\HANACloud.md
+## First Exercise -   [Exercises\HelloWorld.md](Exercises\HelloWorld.md).
+## Second Exercise -  [Exercises\HANACloud.md](Exercises\HANACloud.md).
 
 ## Learn More
 
