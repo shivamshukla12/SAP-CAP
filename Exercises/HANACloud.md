@@ -84,6 +84,10 @@
 
 ## Bind Your Service instance to CAP App
 
+* if Deployment is successful then you can see the SAP-CAP Database inside your HANA Cloud Instance with Supplier Table Created under it.
+
+![Alt text](image-6.png)
+
 cds bind -2 destination:key
 cds bind -2 connectivity:key
 cds bind -2 uss:key
