@@ -100,7 +100,12 @@ cds bind -2 uss:key
 
 run cds watch --profile hyrbid 
 
-Yeah you are ready to debug and run your Application Now 
+Yeah you are ready to debug and run your Application Now
+
+
+# Lets Implement CRUD Operations on this Entity and then we will move onto Associations and Join.
+
+
 
 ##### Here we complete our second Exercise 
 
