@@ -105,7 +105,15 @@ Yeah you are ready to debug and run your Application Now
 
 # Lets Implement CRUD Operations on this Entity and then we will move onto Associations and Join.
 
+#### GET Call 
 
+* Make sure to Bind your database with key 
+
+##### CDS BIND -2 DB:KEY  So that you can execute it locally in VSCode 
+
+GET http://localhost:4004/v2/supl/Supplier
+
+![Alt text](image-7.png)
 
 ##### Here we complete our second Exercise 
 
