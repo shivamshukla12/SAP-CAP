@@ -9,13 +9,15 @@ GET http://localhost:4004/supl/Supplier
 ###
 GET http://localhost:4004/v2/supl/Supplier
 
+###
+GET http://localhost:4004/supl/delRecord(ID='201')
 
 #####
 POST  http://localhost:4004/v2/supl/Supplier
 Content-Type: application/json
 
 {
-        "ID": "205",
+        "ID": "207",
         "FirstName": "JKTXT",
         "LastName": "Charles",
         "Address": "CA AAron 35",

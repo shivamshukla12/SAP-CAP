@@ -115,6 +115,12 @@ Yeah you are ready to debug and run your Application Now
 
 ![Alt text](image-8.png) 
 
+#### DELETE Call ( Function Import our customer handler)
+
+* Odata doesnt allow this dorect on entity hence we have developed on custom handler for this - i have aaded this logic in CAP --  Please go and checkout
+
+![Alt text](image-9.png)
+
 ##### CDS BIND -2 DB:KEY  So that you can execute it locally in VSCode 
 
 GET http://localhost:4004/v2/supl/Supplier
