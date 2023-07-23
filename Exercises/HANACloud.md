@@ -109,6 +109,12 @@ Yeah you are ready to debug and run your Application Now
 
 * Make sure to Bind your database with key 
 
+#### POST Call 
+ 
+* it will simply create the new entry in the database
+
+![Alt text](image-8.png) 
+
 ##### CDS BIND -2 DB:KEY  So that you can execute it locally in VSCode 
 
 GET http://localhost:4004/v2/supl/Supplier

@@ -8,3 +8,18 @@ GET http://localhost:4004/supl/Supplier
 
 ###
 GET http://localhost:4004/v2/supl/Supplier
+
+
+#####
+POST  http://localhost:4004/v2/supl/Supplier
+Content-Type: application/json
+
+{
+        "ID": "205",
+        "FirstName": "JKTXT",
+        "LastName": "Charles",
+        "Address": "CA AAron 35",
+        "ZipCode": "+960054",
+        "Country": "USA",
+        "Phone": "9001023655"
+}
