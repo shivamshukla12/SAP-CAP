@@ -121,6 +121,8 @@ Yeah you are ready to debug and run your Application Now
 
 ![Alt text](image-9.png)
 
+#### PUT Call  -- I hope you can implement this on your own as a learnign exercise....
+
 ##### CDS BIND -2 DB:KEY  So that you can execute it locally in VSCode 
 
 GET http://localhost:4004/v2/supl/Supplier
