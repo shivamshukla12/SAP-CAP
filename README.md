@@ -22,6 +22,14 @@ File or Folder | Purpose
 ## First Exercise -   [Exercises\HelloWorld.md](Exercises\HelloWorld.md).
 ## Second Exercise -  [Exercises\HANACloud.md](Exercises\HANACloud.md).
 
+### Update 
+
+##### Added following..
+
+* GET Call 
+* POST Call 
+* Delete Call using function Import 
+
 # Coming up Next...
 
  How SQL is giving the real value to your cloud Application Programming -- SQL is the magic 
