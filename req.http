@@ -6,3 +6,5 @@ GET http://localhost:4004/say/hello(to='world')
 GET http://localhost:4004/supl/Supplier
 
 
+###
+GET http://localhost:4004/v2/supl/Supplier
